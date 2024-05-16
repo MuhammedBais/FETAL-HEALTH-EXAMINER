@@ -1,4 +1,5 @@
 # ABSTRACT
+
 Cardiotocography (CTG) plays a crucial role in monitoring fetal health during pregnancy
 by assessing parameters such as fetal heart rate (FHR), uterine contractions, and fetal
 movements. Interpretation of CTG results aids in identifying potential risks to the fetus,
@@ -14,7 +15,8 @@ healthcare professionals to make informed decisions regarding fetal well-being b
 CTG results. Ultimately, this project aims to contribute to improved prenatal care and 
 reduced rates of adverse pregnancy outcomes through early detection and intervention.
 
-#Setup
+<h1>Setup</h1>
+
 <h2>Front-end</h2>
 <p>The front-end for the web application is developed with HTML , CSS and JavaScript</p>
 <h2>Back-end</h2>
