@@ -7,7 +7,7 @@ the development of a machine learning model to classify the outcome of Cardiotoc
 tests into three classes: Normal, Suspect, and Pathological.The dataset utilized in this 
 study comprises of features extracted from CTG exams, each classified by expert 
 obstetricians into one of the aforementioned classes. Leveraging this dataset, our
-objective is to train a classification model capable of accurately predicting the fetal wellbeing
+objective is to train a classification model capable of accurately predicting the fetal well-being
 status based on the extracted features.The successful development of an accurate 
 and reliable classification model holds significant clinical implications, empowering 
 healthcare professionals to make informed decisions regarding fetal well-being based on 
