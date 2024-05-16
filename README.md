@@ -13,3 +13,14 @@ and reliable classification model holds significant clinical implications, empow
 healthcare professionals to make informed decisions regarding fetal well-being based on 
 CTG results. Ultimately, this project aims to contribute to improved prenatal care and 
 reduced rates of adverse pregnancy outcomes through early detection and intervention.
+
+#Setup
+<h2>Front-end</h2>
+<p>The front-end for the web application is developed with HTML , CSS and JavaScript</p>
+<h2>Back-end</h2>
+<p>The Back-end for the web application is implemented using Django</p>
+<h5>Installation</h5>
+<p>change directory to the project and execute manage.py</p>
+<p>cd fetal-health</p>
+<p>python ./manage.py runserver</p>
+
